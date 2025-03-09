@@ -4,8 +4,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
 @SpringBootApplication
-class GrpcserversampleApplication
+class GrpcServerSampleApplication
 
 fun main(args: Array<String>) {
-    runApplication<GrpcserversampleApplication>(*args)
+    runApplication<GrpcServerSampleApplication>(*args)
 }
